@@ -10,8 +10,6 @@ Repos för de tre övningarna heter `username-ovnx`.
 Användaren `nisse` hittar alltså sitt repo för övning 1 på
 [https://gits-15.sys.kth.se/dd1396ht19/nisse-ovn1](https://gits-15.sys.kth.se/dd1396ht19/nisse-ovn1).
 
-<b>Dessa kataloger kommer att skapas efter att ni har registrerat er på kursen.</b>
-
 ## Uppgifter
 
 Gör (minst) en fil per uppgift. Utgå från mallarna i
