@@ -1,4 +1,4 @@
-// Nisse Nilsson, pallinda18 uppg 0.2
+// Nisse Nilsson, pallinda19 uppg 0.2
 
 package main
 
