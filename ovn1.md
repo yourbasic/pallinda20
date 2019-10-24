@@ -1,6 +1,6 @@
 # Övning 1 pallinda19
 
-This work should be completed before the exercise on **Friday 2nd November**.
+This work should be completed before the exercise on **Friday 1st November**.
 
 Samtliga uppgifter på kursen ska lämnas in på
 [organisationen dd1396-ht19 på KTH GitHub](https://gits-15.sys.kth.se/dd1396-ht19).
