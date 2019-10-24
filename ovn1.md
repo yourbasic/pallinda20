@@ -7,6 +7,7 @@ Samtliga uppgifter på kursen ska lämnas in på
 Repos för de tre övningarna heter `username-ovnx`.
 Användaren `nisse` hittar alltså sitt repo för övning 1 på
 [https://gits-15.sys.kth.se/dd1396ht19/nisse-ovn1](https://gits-15.sys.kth.se/dd1396ht19/nisse-ovn1).
+<b>Dessa kataloger kommer att skapas efter att ni har registrerat er på kursen.</b>
 
 Gör (minst) en fil per uppgift. Utgå från mallarna i
 [/pallinda19/ovn0/](https://github.com/yourbasic/pallinda19/tree/master/ovn0).
