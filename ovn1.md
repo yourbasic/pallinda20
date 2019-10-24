@@ -19,8 +19,7 @@ Lösningar skall vara inlämnade **innan övningen börjar**.
 ### Homework
 Study the following course literature:
 
-- Read [Go for Java Programmers](http://yourbasic.org/golang/go-java-tutorial/)
-- Take a look at [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) for more info
+- Read [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
 - Read the following from the [Step-by-step guide to concurrency](http://yourbasic.org/golang/concurrent-programming/)
   - [Goroutines](http://yourbasic.org/golang/goroutines-explained/)
   - [Channels](https://yourbasic.org/golang/channels-explained/)
