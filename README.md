@@ -7,7 +7,7 @@
 Samtliga uppgifter på kursen ska lämnas in på
 [organisationen dd1396ht19 på KTH GitHub](https://gits-15.sys.kth.se/dd1396ht19).
 
-*Goto [https://gits-15.sys.kth.se/](https://gits-15.sys.kth.se/) and login to activate your account.*
+*Gå till [https://gits-15.sys.kth.se/](https://gits-15.sys.kth.se/) och logga in för att aktivera ditt konto.*
 
 Repos för de tre övningarna heter `username-ovnx`.
 Användaren `nisse` hittar alltså sitt repo för övning 1 på
