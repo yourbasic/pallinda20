@@ -32,7 +32,7 @@ Study the following course literature:
 The first task is to determine that you have a functioning Go environment on the computer that you are working from.
 
 - On a KTH computer - Go should be installed and ready to use
-- On your own computer - Goto the [downloads page](https://golang.org/dl/) for and follow the installation instructions for your preferred operating system.
+- On your own computer - Goto the [Go getting started page](https://golang.org/doc/install) and follow the installation instructions for your preferred operating system.
 
 ### Task 2 - A Tour of Go (HANDIN)
 
