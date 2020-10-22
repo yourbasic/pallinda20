@@ -1,4 +1,4 @@
-# Nisse Nilsson, pallinda19 uppg 0.1
+# Nisse Nilsson, pallinda20 uppg 0.1
 
 ## Sats
 
