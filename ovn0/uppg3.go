@@ -1,4 +1,4 @@
-// Nisse Nilsson, pallinda19 uppg 0.3
+// Nisse Nilsson, pallinda20 uppg 0.3
 
 // This package implements a stack of strings.
 package main
